@@ -75,4 +75,4 @@ urllib3==1.19.1
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 virtualenvwrapper==4.8.2
-Werkzeug==0.11.15
+Werkzeug==0.15.3
