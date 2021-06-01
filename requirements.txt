@@ -71,7 +71,7 @@ stevedore==1.29.0
 touchphat==0.0.1
 twython==3.4.0
 unicornhathd==0.0.3
-urllib3==1.19.1
+urllib3==1.26.5
 virtualenv==16.0.0
 virtualenv-clone==0.3.0
 virtualenvwrapper==4.8.2
